@@ -27,8 +27,12 @@ export default function App() {
     <div>
       <h1>Medical Treatment</h1>
       <p>
-        {treatId} {treatCourseId} {type} {category} {name} {startDate}{' '}
+        {treatId} {treatCourseId} {type} {category} {name} {startDate}
       </p>
     </div>
   );
+}
+
+function MedicalTreatmentList (props){
+  
 }
