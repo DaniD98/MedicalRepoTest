@@ -1,6 +1,6 @@
 import React from 'react'; // react libary must be imported
 import './style.css'; // controls format of page
-import
+
 
 const treatId = '100';
 const treatCourseId = '67678';
@@ -35,5 +35,5 @@ export default function App() {
 }
 
 function MedicalTreatmentList (props){
-  
+import {MedicalTreatmentList}
 }
